@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\bin\Debug\net7.0\MyAPI.Application.deps.json
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\bin\Debug\net7.0\MyAPI.Application.dll
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\bin\Debug\net7.0\MyAPI.Application.pdb
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\bin\Debug\net7.0\MyAPI.Domain.dll
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\bin\Debug\net7.0\MyAPI.Domain.pdb
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.csproj.CopyComplete
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.dll
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\refint\MyAPI.Application.dll
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\MyAPI.Application.pdb
+C:\Users\user\Desktop\API Project\MyAPI\Core\MyAPI.Application\obj\Debug\net7.0\ref\MyAPI.Application.dll
